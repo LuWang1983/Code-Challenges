@@ -13,7 +13,7 @@ A code challenge a day keeps the technical interview anxiety at bay.
 - [Tree Traversal](https://repl.it/@LuWang1983/TreeTraversal)
 - Video explanation: https://youtu.be/P94kiC-arNk
 
-- [Multiplicative Persistence]https://repl.it/@LuWang1983/MultiplicativePersistence#index.js)
+- [Multiplicative Persistence](https://repl.it/@LuWang1983/MultiplicativePersistence#index.js)
 - Video explanation: https://youtu.be/HX13BWnfJ9s
 
 
