@@ -21,3 +21,5 @@ A code challenge a day keeps the technical interview anxiety at bay.
 
 - [Palindrome Optimal Solution](https://repl.it/@LuWang1983/Palindrome#index.js)
 
+- [Binary Search Optimal Solution](https://repl.it/@LuWang1983/Binary-Search#index.js)
+
