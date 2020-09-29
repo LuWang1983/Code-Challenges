@@ -23,3 +23,4 @@ A code challenge a day keeps the technical interview anxiety at bay.
 
 - [Binary Search Optimal Solution](https://repl.it/@LuWang1983/Binary-Search#index.js)
 
+- [Monotonic Array Optimal Solution](https://repl.it/@LuWang1983/isMonotonic#index.js)
