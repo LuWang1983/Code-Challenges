@@ -25,3 +25,6 @@ A code challenge a day keeps the technical interview anxiety at bay.
 
 - [Monotonic Array Optimal Solution](https://repl.it/@LuWang1983/isMonotonic#index.js)
   - Video explanation: https://youtu.be/W6usy7WUlVU
+
+- [Rain Water Collector](https://repl.it/@LuWang1983/Rain-Water-Collector#index.js)
+  - Video explanation: https://youtu.be/klqav41LCzU
