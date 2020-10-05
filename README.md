@@ -28,3 +28,6 @@ A code challenge a day keeps the technical interview anxiety at bay.
 
 - [Rain Water Collector](https://repl.it/@LuWang1983/Rain-Water-Collector#index.js)
   - Video explanation: https://youtu.be/klqav41LCzU
+
+- [Busiest Time in the Mall](https://repl.it/@LuWang1983/BusiestTimeInTheMall#index.js)
+  - Video explanation: https://youtu.be/GiQEKZOn9K4
