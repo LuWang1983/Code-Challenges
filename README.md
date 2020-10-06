@@ -31,3 +31,9 @@ A code challenge a day keeps the technical interview anxiety at bay.
 
 - [Busiest Time in the Mall](https://repl.it/@LuWang1983/BusiestTimeInTheMall#index.js)
   - Video explanation: https://youtu.be/GiQEKZOn9K4
+
+- [Sleep Shift Schedule (WIP)](https://repl.it/@LuWang1983/SleepShiftSchedule#index.js)
+  - Background: I wrote these algorithms for the 2020 NASA Space Apps Hackathon to calculate a sleep schedule for astronauts who often misalign their circadian rhythms due to their work schedule and the space environment. The algorithm is not perfect yet and being improved.
+  - [Project GitHub](https://github.com/WomenInPower)
+  - [Deployed Link](https://power-sleep.herokuapp.com/)
+  - [Presentation Deck](https://docs.google.com/presentation/d/1uroPhgEiH8KI_o9I2uTmljCkKpCAzzQt8RNCXPJoNEo/edit?usp=sharing)
