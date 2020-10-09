@@ -39,4 +39,8 @@ A code challenge a day keeps the technical interview anxiety at bay.
   - [Presentation Deck](https://docs.google.com/presentation/d/1uroPhgEiH8KI_o9I2uTmljCkKpCAzzQt8RNCXPJoNEo/edit?usp=sharing)
 
 - [Two City Scheduling](https://repl.it/@LuWang1983/TwoCityScheduling#index.js)
+  - Video explanation:
+
+- [2D Array](https://repl.it/@LuWang1983/2DArray#index.js)
+  - Video explanation:
 
