@@ -42,5 +42,5 @@ A code challenge a day keeps the technical interview anxiety at bay.
   - Video explanation:
 
 - [2D Array](https://repl.it/@LuWang1983/2DArray#index.js)
-  - Video explanation:
+  - Video explanation: https://youtu.be/XshhD_oCJzM
 
