@@ -42,5 +42,8 @@ A code challenge a day keeps the technical interview anxiety at bay.
   - Video explanation:
 
 - [2D Array](https://repl.it/@LuWang1983/2DArray#index.js)
-  - Video explanation:
+  - Video explanation: https://youtu.be/XshhD_oCJzM
+
+- [Matrix Spiral Copy](https://repl.it/@LuWang1983/MatrixSpiralCopy#index.js)
+  - Video explanation: https://youtu.be/vRGsMOUPgzM
 
