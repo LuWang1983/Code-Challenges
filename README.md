@@ -48,7 +48,11 @@ A code challenge a day keeps the technical interview anxiety at bay.
     - Video explanation: https://youtu.be/vRGsMOUPgzM
 
 16. [Binary Numbers](https://repl.it/@LuWang1983/BinaryNumbers#index.js)
+    - Video explanation:
 
 17. [Pancake Sort](https://repl.it/@LuWang1983/PancakeSort#index.js)
+
+18. [Bitwise AND - 2 code challenges](https://repl.it/@LuWang1983/bitwiseAND#index.js)
+    - Video explanation:
 
 
