@@ -55,4 +55,7 @@ A code challenge a day keeps the technical interview anxiety at bay.
 18. [Bitwise AND - 2 code challenges](https://repl.it/@LuWang1983/bitwiseAND#index.js)
     - Video explanation:
 
+19. [Sorted Sums](https://repl.it/@LuWang1983/SortedSums)
+    - Video explanation:
+
 
