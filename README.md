@@ -60,4 +60,6 @@ A code challenge a day keeps the technical interview anxiety at bay.
 
 20. [The Love-Letter Mystery](https://repl.it/@LuWang1983/TheLove-LetterMystery)
 
+21. [Make Anagram - 2 code challenges](https://repl.it/@LuWang1983/ValidAnagram#index.js)
+
 
