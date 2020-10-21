@@ -58,4 +58,6 @@ A code challenge a day keeps the technical interview anxiety at bay.
 19. [Sorted Sums](https://repl.it/@LuWang1983/SortedSums)
     - Video explanation:
 
+20. [The Love-Letter Mystery](https://repl.it/@LuWang1983/TheLove-LetterMystery)
+
 
