@@ -66,4 +66,7 @@ A code challenge a day keeps the technical interview anxiety at bay.
 22. [Sum of Two Integers](https://repl.it/@LuWang1983/SumOfTwoIntegers#index.js)
     - Video explanation:
 
+23. [Minimum Remove to Make Valid Parentheses](https://repl.it/@LuWang1983/MinimumRemovetoMakeValidParentheses#index.js)
+    - Video explanation:
+
 
