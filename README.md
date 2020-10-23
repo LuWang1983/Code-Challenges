@@ -71,5 +71,7 @@ A code challenge a day keeps the technical interview anxiety at bay.
 
 24. [Sherlock and the Valid String](https://repl.it/@LuWang1983/SherlockValidString#index.js)
 
+25. [Flatten a Dictionary](https://repl.it/@LuWang1983/FlattenDictionary#index.js)
+
 
 
