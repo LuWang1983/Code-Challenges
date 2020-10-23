@@ -69,4 +69,7 @@ A code challenge a day keeps the technical interview anxiety at bay.
 23. [Minimum Remove to Make Valid Parentheses](https://repl.it/@LuWang1983/MinimumRemovetoMakeValidParentheses#index.js)
     - Video explanation:
 
+24. [Sherlock and the Valid String](https://repl.it/@LuWang1983/SherlockValidString#index.js)
+
+
 
