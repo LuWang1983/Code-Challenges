@@ -73,5 +73,7 @@ A code challenge a day keeps the technical interview anxiety at bay.
 
 25. [Flatten a Dictionary](https://repl.it/@LuWang1983/FlattenDictionary#index.js)
 
+26. [Minimum Swaps 2](https://repl.it/@LuWang1983/MinimumSwaps2#index.js)
+
 
 
