@@ -79,5 +79,7 @@ A code challenge a day keeps the technical interview anxiety at bay.
 
 28. [Sprint Training / Triplets - 2 code challenges](https://repl.it/@LuWang1983/CitadelAssessment)
 
+28. [Decode Variations - DP](https://repl.it/@LuWang1983/DecodeVariantions#index.js)
+
 
 
