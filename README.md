@@ -83,4 +83,6 @@ A code challenge a day keeps the technical interview anxiety at bay.
 
 29. [Coin Change - DP](https://repl.it/@LuWang1983/CoinChange#index.js)
 
+30. [Max Array Sum (Non-Adjacent) - DP](https://repl.it/@LuWang1983/MaxArraySumDP)
+
 
