@@ -85,4 +85,9 @@ A code challenge a day keeps the technical interview anxiety at bay.
 
 30. [Max Array Sum (Non-Adjacent) - DP](https://repl.it/@LuWang1983/MaxArraySumDP)
 
+31. [Occurance Count Optimal Solution](https://repl.it/@LuWang1983/integerOccurance#index.js)
+
+32. [Pairs with Specific Difference Optimal Solution](https://repl.it/@LuWang1983/PairSpecificDifference#index.js)
+
+
 
