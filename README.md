@@ -89,5 +89,6 @@ A code challenge a day keeps the technical interview anxiety at bay.
 
 32. [Pairs with Specific Difference Optimal Solution](https://repl.it/@LuWang1983/PairSpecificDifference#index.js)
 
+33. [Get Different Number Optimal Solution](https://repl.it/@LuWang1983/GetDifferentNumber#index.js)
 
 
