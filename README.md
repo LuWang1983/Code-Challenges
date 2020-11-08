@@ -91,4 +91,6 @@ A code challenge a day keeps the technical interview anxiety at bay.
 
 33. [Get Different Number Optimal Solution](https://repl.it/@LuWang1983/GetDifferentNumber#index.js)
 
+34. [Merging 2 Packages / Brackets Match - 2 code challenges](https://repl.it/@LuWang1983/Merging2PackagesBracketMatch)
+
 
