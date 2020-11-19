@@ -1,4 +1,4 @@
-# Code-Challenges
+## 🚀 Code-Challenges
 A code challenge a day keeps the technical interview anxiety at bay.
 
 1. [Unique Paths](https://repl.it/@LuWang1983/Unique-Paths)
@@ -92,5 +92,11 @@ A code challenge a day keeps the technical interview anxiety at bay.
 33. [Get Different Number Optimal Solution](https://repl.it/@LuWang1983/GetDifferentNumber#index.js)
 
 34. [Merging 2 Packages / Brackets Match - 2 code challenges](https://repl.it/@LuWang1983/Merging2PackagesBracketMatch)
+
+35. [Common Sorting Algorithms](https://repl.it/@LuWang1983/SortingAlgo#index.js)
+
+35. [Sum of All Odd Length Subarrays](https://repl.it/@LuWang1983/SumOfAllOddLenSubarrays#index.js)
+
+
 
 
