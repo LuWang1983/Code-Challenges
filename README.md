@@ -1,4 +1,4 @@
-## 🚀 Code-Challenges
+## 🚀 Code-Challenges 🚀
 A code challenge a day keeps the technical interview anxiety at bay.
 
 1. [Unique Paths](https://repl.it/@LuWang1983/Unique-Paths)
@@ -95,7 +95,7 @@ A code challenge a day keeps the technical interview anxiety at bay.
 
 35. [Common Sorting Algorithms](https://repl.it/@LuWang1983/SortingAlgo#index.js)
 
-35. [Sum of All Odd Length Subarrays](https://repl.it/@LuWang1983/SumOfAllOddLenSubarrays#index.js)
+35. [Sum of All Odd Length Subarrays - DP](https://repl.it/@LuWang1983/SumOfAllOddLenSubarrays#index.js)
 
 
 
