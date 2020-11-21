@@ -97,6 +97,6 @@ A code challenge a day keeps the technical interview anxiety at bay.
 
 35. [Sum of All Odd Length Subarrays - DP](https://repl.it/@LuWang1983/SumOfAllOddLenSubarrays#index.js)
 
+36. [Numbers of Islands](https://repl.it/@LuWang1983/NumberOfIslands#index.js)
 
-
-
+37. [Flatten Nested List Iterator](https://repl.it/@LuWang1983/FlattenNestedList#index.js)
