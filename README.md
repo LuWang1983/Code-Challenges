@@ -79,24 +79,24 @@ A code challenge a day keeps the technical interview anxiety at bay.
 
 28. [Sprint Training / Triplets - 2 code challenges](https://repl.it/@LuWang1983/CitadelAssessment)
 
-28. [Decode Variations - DP](https://repl.it/@LuWang1983/DecodeVariantions#index.js)
+29. [Decode Variations - DP](https://repl.it/@LuWang1983/DecodeVariantions#index.js)
 
-29. [Coin Change - DP](https://repl.it/@LuWang1983/CoinChange#index.js)
+30. [Coin Change - DP](https://repl.it/@LuWang1983/CoinChange#index.js)
 
-30. [Max Array Sum (Non-Adjacent) - DP](https://repl.it/@LuWang1983/MaxArraySumDP)
+31. [Max Array Sum (Non-Adjacent) - DP](https://repl.it/@LuWang1983/MaxArraySumDP)
 
-31. [Occurance Count Optimal Solution](https://repl.it/@LuWang1983/integerOccurance#index.js)
+32. [Occurance Count Optimal Solution](https://repl.it/@LuWang1983/integerOccurance#index.js)
 
-32. [Pairs with Specific Difference Optimal Solution](https://repl.it/@LuWang1983/PairSpecificDifference#index.js)
+33. [Pairs with Specific Difference Optimal Solution](https://repl.it/@LuWang1983/PairSpecificDifference#index.js)
 
-33. [Get Different Number Optimal Solution](https://repl.it/@LuWang1983/GetDifferentNumber#index.js)
+34. [Get Different Number Optimal Solution](https://repl.it/@LuWang1983/GetDifferentNumber#index.js)
 
-34. [Merging 2 Packages / Brackets Match - 2 code challenges](https://repl.it/@LuWang1983/Merging2PackagesBracketMatch)
+35. [Merging 2 Packages / Brackets Match - 2 code challenges](https://repl.it/@LuWang1983/Merging2PackagesBracketMatch)
 
-35. [Common Sorting Algorithms](https://repl.it/@LuWang1983/SortingAlgo#index.js)
+36. [Common Sorting Algorithms](https://repl.it/@LuWang1983/SortingAlgo#index.js)
 
-35. [Sum of All Odd Length Subarrays - DP](https://repl.it/@LuWang1983/SumOfAllOddLenSubarrays#index.js)
+37. [Sum of All Odd Length Subarrays - DP](https://repl.it/@LuWang1983/SumOfAllOddLenSubarrays#index.js)
 
-36. [Numbers of Islands](https://repl.it/@LuWang1983/NumberOfIslands#index.js)
+38. [Numbers of Islands](https://repl.it/@LuWang1983/NumberOfIslands#index.js)
 
-37. [Flatten Nested List Iterator](https://repl.it/@LuWang1983/FlattenNestedList#index.js)
+39. [Flatten Nested List Iterator](https://repl.it/@LuWang1983/FlattenNestedList#index.js)
