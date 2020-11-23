@@ -55,8 +55,8 @@ A code challenge a day keeps the technical interview anxiety at bay.
 #### Dictionaries and Hashmaps
 1. [Flatten a Dictionary](https://repl.it/@LuWang1983/FlattenDictionary#index.js)
 2. [Pairs with Specific Difference Optimal Solution](https://repl.it/@LuWang1983/PairSpecificDifference#index.js)
-3. [Sleep Shift Schedule (WIP)](https://repl.it/@LuWang1983/SleepShiftSchedule#index.js)
-    - Background: I wrote these algorithms for the 2020 NASA Space Apps Hackathon to calculate a sleep schedule for astronauts who often misalign their circadian rhythms due to their work schedule and the space environment. The algorithm is not perfect yet and being improved.
+3. [Sleep Shift Schedule](https://repl.it/@LuWang1983/SleepShiftSchedule#index.js)
+    - Background: I wrote this algorithm for the 2020 NASA Space Apps Hackathon to calculate a sleep schedule for astronauts who often have their circadian rhythms out of alignment due to their irregular work schedule and extensive traveling between time zones. This is an ongoing project and the algorithsm is being optimzed over time.
     - [Project GitHub](https://github.com/WomenInPower)
     - [Deployed Link](https://power-sleep.herokuapp.com/)
     - [Presentation Deck](https://docs.google.com/presentation/d/1uroPhgEiH8KI_o9I2uTmljCkKpCAzzQt8RNCXPJoNEo/edit?usp=sharing)
