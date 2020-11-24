@@ -45,6 +45,7 @@ A code challenge a day keeps the technical interview anxiety at bay.
 #### Linked List
 1. [Flatten Nested List Iterator](https://repl.it/@LuWang1983/FlattenNestedList#index.js)
 2. [Contains Cycle](https://repl.it/@LuWang1983/containsCycles#index.js)
+3. [Reverse Doubly Linked List / Insert a Node to a Singly List](https://repl.it/@LuWang1983/ReverseDoublyLinkedList#index.js)
 
 #### Graphs and Trees
 1. [Solving Graphs](https://repl.it/@LuWang1983/Solving-Graphs#index.js)
