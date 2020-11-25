@@ -30,6 +30,7 @@ A code challenge a day keeps the technical interview anxiety at bay.
 12. [Occurance Count](https://repl.it/@LuWang1983/integerOccurance#index.js)
 13. [Get Different Number](https://repl.it/@LuWang1983/GetDifferentNumber#index.js)
 14. [Validate IP Address](https://repl.it/@LuWang1983/ValidateIPAddress#index.js)
+15. [Array Quadruplet](https://repl.it/@LuWang1983/ArrayQuadruplet#index.js)
 
 #### Matrix
 1. [Hourglass Sum](https://repl.it/@LuWang1983/2DArray#index.js)
@@ -55,7 +56,7 @@ A code challenge a day keeps the technical interview anxiety at bay.
     - Video explanation: https://youtu.be/P94kiC-arNk
 3. [Max Binary Tree Depth](https://repl.it/@LuWang1983/MaxTreeDepth#index.js)
 
-#### Dictionaries and Hashmaps
+#### Hashmaps and Hashsets
 1. [Flatten a Dictionary](https://repl.it/@LuWang1983/FlattenDictionary#index.js)
 2. [Pairs with Specific Difference Optimal Solution](https://repl.it/@LuWang1983/PairSpecificDifference#index.js)
 3. [Sleep Shift Schedule](https://repl.it/@LuWang1983/SleepShiftSchedule#index.js)
@@ -63,6 +64,7 @@ A code challenge a day keeps the technical interview anxiety at bay.
     - [Project GitHub](https://github.com/WomenInPower)
     - [Deployed Link](https://power-sleep.herokuapp.com/)
     - [Presentation Deck](https://docs.google.com/presentation/d/1uroPhgEiH8KI_o9I2uTmljCkKpCAzzQt8RNCXPJoNEo/edit?usp=sharing)
+4. [Insert Delete GetRandom O(1)](https://repl.it/@LuWang1983/InsertDeleteGetRandomO1#index.js)
 
 #### Recursions and Backtracking
 1. [Multiplicative Persistence](https://repl.it/@LuWang1983/MultiplicativePersistence#index.js)
