@@ -53,6 +53,7 @@ A code challenge a day keeps the technical interview anxiety at bay.
     - Video explanation: https://youtu.be/_5VdWbpvMPk
 2. [Tree Traversal](https://repl.it/@LuWang1983/TreeTraversal)
     - Video explanation: https://youtu.be/P94kiC-arNk
+3. [Max Binary Tree Depth](https://repl.it/@LuWang1983/MaxTreeDepth#index.js)
 
 #### Dictionaries and Hashmaps
 1. [Flatten a Dictionary](https://repl.it/@LuWang1983/FlattenDictionary#index.js)
