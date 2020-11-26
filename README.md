@@ -77,7 +77,7 @@ A code challenge a day keeps the technical interview anxiety at bay.
 3. [Sorted Sums](https://repl.it/@LuWang1983/SortedSums)
 4. [Minimum Swaps 2](https://repl.it/@LuWang1983/MinimumSwaps2#index.js)
 5. [Common Sorting Algorithms](https://repl.it/@LuWang1983/SortingAlgo#index.js)
-6. [Array Index & Element Equaity - using Binary Search](https://repl.it/@LuWang1983/ArrayIndexandElementEquality#index.js)
+6. [Array Index & Element Equality - using Binary Search](https://repl.it/@LuWang1983/ArrayIndexandElementEquality#index.js)
 
 #### BIT Manipulation
 1. [Binary Numbers](https://repl.it/@LuWang1983/BinaryNumbers#index.js)
