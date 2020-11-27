@@ -66,6 +66,10 @@ A code challenge a day keeps the technical interview anxiety at bay.
     - [Presentation Deck](https://docs.google.com/presentation/d/1uroPhgEiH8KI_o9I2uTmljCkKpCAzzQt8RNCXPJoNEo/edit?usp=sharing)
 4. [Insert Delete GetRandom O(1)](https://repl.it/@LuWang1983/InsertDeleteGetRandomO1#index.js)
 
+#### Heaps
+1. [MaxHeap Implementation / Heap Sort using MaxHeap](https://repl.it/@LuWang1983/MaxHeapImplementation#index.js)
+
+
 #### Recursions and Backtracking
 1. [Multiplicative Persistence](https://repl.it/@LuWang1983/MultiplicativePersistence#index.js)
     - Video explanation: https://youtu.be/HX13BWnfJ9s
