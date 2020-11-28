@@ -48,6 +48,7 @@ A code challenge a day keeps the technical interview anxiety at bay.
 2. [Contains Cycle](https://repl.it/@LuWang1983/containsCycles#index.js)
 3. [Reverse Doubly Linked List / Insert a Node to a Singly List](https://repl.it/@LuWang1983/ReverseDoublyLinkedList#index.js)
 4. [Design Browser History](https://repl.it/@LuWang1983/DesignBrowserHistory#index.js)
+5. [Find Merge Point of Two Linked List](https://repl.it/@LuWang1983/FindMergePointOfTwoLists#index.js)
 
 #### Graphs and Trees
 1. [Solving Graphs](https://repl.it/@LuWang1983/Solving-Graphs#index.js)
@@ -55,6 +56,7 @@ A code challenge a day keeps the technical interview anxiety at bay.
 2. [Tree Traversal](https://repl.it/@LuWang1983/TreeTraversal)
     - Video explanation: https://youtu.be/P94kiC-arNk
 3. [Max Binary Tree Depth](https://repl.it/@LuWang1983/MaxTreeDepth#index.js)
+4. [BST Successor Search](https://repl.it/@LuWang1983/BSTSuccessorSearch#index.js)
 
 #### Hashmaps and Hashsets
 1. [Flatten a Dictionary](https://repl.it/@LuWang1983/FlattenDictionary#index.js)
@@ -68,7 +70,6 @@ A code challenge a day keeps the technical interview anxiety at bay.
 
 #### Heaps
 1. [MaxHeap Implementation / Heap Sort using MaxHeap](https://repl.it/@LuWang1983/MaxHeapImplementation#index.js)
-
 
 #### Recursions and Backtracking
 1. [Multiplicative Persistence](https://repl.it/@LuWang1983/MultiplicativePersistence#index.js)
