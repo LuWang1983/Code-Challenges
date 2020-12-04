@@ -38,6 +38,7 @@ A code challenge a day keeps the technical interview anxiety at bay.
 2. [Matrix Spiral Copy](https://repl.it/@LuWang1983/MatrixSpiralCopy#index.js)
     - Video explanation: https://youtu.be/vRGsMOUPgzM
 3. [Drone Flight Planner](https://repl.it/@LuWang1983/DroneFlightPlanner#index.js)
+4. [Toeplitz Matrix](https://repl.it/@LuWang1983/ToeplitzMatrix#index.jsa)
 
 #### Stacks and Queues
 1. [Merging 2 Packages / Brackets Match - 2 code challenges](https://repl.it/@LuWang1983/Merging2PackagesBracketMatch)
