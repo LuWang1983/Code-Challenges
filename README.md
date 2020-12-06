@@ -78,6 +78,7 @@ A code challenge a day keeps the technical interview anxiety at bay.
 1. [Multiplicative Persistence](https://repl.it/@LuWang1983/MultiplicativePersistence#index.js)
     - Video explanation: https://youtu.be/HX13BWnfJ9s
 2. [Reaching Points](https://repl.it/@LuWang1983/MultiplicativePersistence#index.js)
+3. [Sales Path](https://repl.it/@LuWang1983/SalesPath#index.js)
 
 #### Sorting and Searching
 1. [Binary Search](https://repl.it/@LuWang1983/Binary-Search#index.js)
