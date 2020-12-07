@@ -31,7 +31,9 @@ A code challenge a day keeps the technical interview anxiety at bay.
 13. [Get Different Number](https://repl.it/@LuWang1983/GetDifferentNumber#index.js)
 14. [Validate IP Address](https://repl.it/@LuWang1983/ValidateIPAddress#index.js)
 15. [Array Quadruplet](https://repl.it/@LuWang1983/ArrayQuadruplet#index.js)
-15. [Caesar Cipher Encryptor](https://repl.it/@LuWang1983/CaesarCipherEncryptor#index.js)
+16. [Caesar Cipher Encryptor](https://repl.it/@LuWang1983/CaesarCipherEncryptor#index.js)
+17. [Array of Array Products](https://repl.it/@LuWang1983/ArrayOfArrayProducts#index.js)
+
 
 #### Matrix
 1. [Hourglass Sum](https://repl.it/@LuWang1983/2DArray#index.js)
