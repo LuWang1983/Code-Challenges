@@ -33,6 +33,7 @@ A code challenge a day keeps the technical interview anxiety at bay.
 15. [Array Quadruplet](https://repl.it/@LuWang1983/ArrayQuadruplet#index.js)
 16. [Caesar Cipher Encryptor](https://repl.it/@LuWang1983/CaesarCipherEncryptor#index.js)
 17. [Array of Array Products](https://repl.it/@LuWang1983/ArrayOfArrayProducts#index.js)
+18. [Word Count Engine](https://repl.it/@LuWang1983/WordCountEngine#index.js)
 
 
 #### Matrix
