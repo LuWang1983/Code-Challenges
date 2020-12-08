@@ -4,8 +4,6 @@ A code challenge a day keeps the technical interview anxiety at bay.
 #### Dynamic Programming
 1. [Unique Paths](https://repl.it/@LuWang1983/Unique-Paths)
     - Video explanation: https://youtu.be/oN1wfcAFGDY
-2. [Matrix Exponentiation](https://repl.it/@LuWang1983/MatrixExpo)
-    - Video explanation: https://youtu.be/fBzwKEqSYxE
 3. [Decode Variations](https://repl.it/@LuWang1983/DecodeVariantions#index.js)
 4. [Coin Change](https://repl.it/@LuWang1983/CoinChange#index.js)
 5. [Max Array Sum (Non-Adjacent)](https://repl.it/@LuWang1983/MaxArraySumDP)
@@ -37,13 +35,20 @@ A code challenge a day keeps the technical interview anxiety at bay.
 19. [Max Hotel Stay / Meeting Rooms 2 - 2 code challenges](https://repl.it/@LuWang1983/MaxHotelStayMeetingRooms2)
 
 
+#### Number and Math (e.g. %)
+1. [Distribute Candies to People](https://repl.it/@LuWang1983/CandiesDistribution#index.js)
+2. [Multiplicative Persistence](https://repl.it/@LuWang1983/MultiplicativePersistence#index.js)
+    - Video explanation: https://youtu.be/HX13BWnfJ9s
+3. [Drone Flight Planner](https://repl.it/@LuWang1983/DroneFlightPlanner#index.js)
+4. [Matrix Exponentiation](https://repl.it/@LuWang1983/MatrixExpo)
+    - Video explanation: https://youtu.be/fBzwKEqSYxE
+
 #### Matrix
 1. [Hourglass Sum](https://repl.it/@LuWang1983/2DArray#index.js)
     - Video explanation: https://youtu.be/XshhD_oCJzM
 2. [Matrix Spiral Copy](https://repl.it/@LuWang1983/MatrixSpiralCopy#index.js)
     - Video explanation: https://youtu.be/vRGsMOUPgzM
-3. [Drone Flight Planner](https://repl.it/@LuWang1983/DroneFlightPlanner#index.js)
-4. [Toeplitz Matrix](https://repl.it/@LuWang1983/ToeplitzMatrix#index.jsa)
+3. [Toeplitz Matrix](https://repl.it/@LuWang1983/ToeplitzMatrix#index.jsa)
 
 #### Stacks and Queues
 1. [Merging 2 Packages / Brackets Match - 2 code challenges](https://repl.it/@LuWang1983/Merging2PackagesBracketMatch)
@@ -80,10 +85,8 @@ A code challenge a day keeps the technical interview anxiety at bay.
 1. [MaxHeap Implementation / Heap Sort using MaxHeap - 2 code challenges](https://repl.it/@LuWang1983/MaxHeapImplementation#index.js)
 
 #### Recursions and Backtracking
-1. [Multiplicative Persistence](https://repl.it/@LuWang1983/MultiplicativePersistence#index.js)
-    - Video explanation: https://youtu.be/HX13BWnfJ9s
-2. [Reaching Points](https://repl.it/@LuWang1983/MultiplicativePersistence#index.js)
-3. [Sales Path](https://repl.it/@LuWang1983/SalesPath#index.js)
+1. [Reaching Points](https://repl.it/@LuWang1983/MultiplicativePersistence#index.js)
+2. [Sales Path](https://repl.it/@LuWang1983/SalesPath#index.js)
 
 #### Sorting and Searching
 1. [Binary Search](https://repl.it/@LuWang1983/Binary-Search#index.js)
