@@ -34,6 +34,7 @@ A code challenge a day keeps the technical interview anxiety at bay.
 16. [Caesar Cipher Encryptor](https://repl.it/@LuWang1983/CaesarCipherEncryptor#index.js)
 17. [Array of Array Products](https://repl.it/@LuWang1983/ArrayOfArrayProducts#index.js)
 18. [Word Count Engine](https://repl.it/@LuWang1983/WordCountEngine#index.js)
+19. [Max Hotel Stay / Meeting Rooms 2 - 2 code challenges](https://repl.it/@LuWang1983/MaxHotelStayMeetingRooms2)
 
 
 #### Matrix
@@ -51,7 +52,7 @@ A code challenge a day keeps the technical interview anxiety at bay.
 #### Linked List
 1. [Flatten Nested List Iterator](https://repl.it/@LuWang1983/FlattenNestedList#index.js)
 2. [Contains Cycle](https://repl.it/@LuWang1983/containsCycles#index.js)
-3. [Reverse Doubly Linked List / Insert a Node to a Singly List](https://repl.it/@LuWang1983/ReverseDoublyLinkedList#index.js)
+3. [Reverse Doubly Linked List / Insert a Node to a Singly List - 2 code challenges](https://repl.it/@LuWang1983/ReverseDoublyLinkedList#index.js)
 4. [Design Browser History](https://repl.it/@LuWang1983/DesignBrowserHistory#index.js)
 5. [Find Merge Point of Two Linked List](https://repl.it/@LuWang1983/FindMergePointOfTwoLists#index.js)
 
@@ -76,7 +77,7 @@ A code challenge a day keeps the technical interview anxiety at bay.
 5. [Design Underground System](https://repl.it/@LuWang1983/DesignUndergroundSystem#index.js)
 
 #### Heaps
-1. [MaxHeap Implementation / Heap Sort using MaxHeap](https://repl.it/@LuWang1983/MaxHeapImplementation#index.js)
+1. [MaxHeap Implementation / Heap Sort using MaxHeap - 2 code challenges](https://repl.it/@LuWang1983/MaxHeapImplementation#index.js)
 
 #### Recursions and Backtracking
 1. [Multiplicative Persistence](https://repl.it/@LuWang1983/MultiplicativePersistence#index.js)
