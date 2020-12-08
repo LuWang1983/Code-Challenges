@@ -1,7 +1,7 @@
 ## 🚀 Code-Challenges 🚀
 A code challenge a day keeps the technical interview anxiety at bay.
 
-#### Dynamic Programming
+#### Dynamic Programming (e.g. Prefix Sum)
 1. [Unique Paths](https://repl.it/@LuWang1983/Unique-Paths)
     - Video explanation: https://youtu.be/oN1wfcAFGDY
 3. [Decode Variations](https://repl.it/@LuWang1983/DecodeVariantions#index.js)
