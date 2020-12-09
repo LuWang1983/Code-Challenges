@@ -33,6 +33,7 @@ A code challenge a day keeps the technical interview anxiety at bay.
 17. [Array of Array Products](https://repl.it/@LuWang1983/ArrayOfArrayProducts#index.js)
 18. [Word Count Engine](https://repl.it/@LuWang1983/WordCountEngine#index.js)
 19. [Max Hotel Stay / Meeting Rooms 2 - 2 code challenges](https://repl.it/@LuWang1983/MaxHotelStayMeetingRooms2)
+20. [Decrpyt Message](https://repl.it/@LuWang1983/DecryptMessage)
 
 
 #### Number and Math (e.g. %)
@@ -95,6 +96,8 @@ A code challenge a day keeps the technical interview anxiety at bay.
 4. [Minimum Swaps 2](https://repl.it/@LuWang1983/MinimumSwaps2#index.js)
 5. [Common Sorting Algorithms](https://repl.it/@LuWang1983/SortingAlgo#index.js)
 6. [Array Index & Element Equality - using Binary Search](https://repl.it/@LuWang1983/ArrayIndexandElementEquality#index.js)
+7. [Shifted Array Search](https://repl.it/@LuWang1983/ShiftedArraySearch#index.js)
+
 
 #### BIT Manipulation
 1. [Binary Numbers](https://repl.it/@LuWang1983/BinaryNumbers#index.js)
