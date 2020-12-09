@@ -33,7 +33,8 @@ A code challenge a day keeps the technical interview anxiety at bay.
 17. [Array of Array Products](https://repl.it/@LuWang1983/ArrayOfArrayProducts#index.js)
 18. [Word Count Engine](https://repl.it/@LuWang1983/WordCountEngine#index.js)
 19. [Max Hotel Stay / Meeting Rooms 2 - 2 code challenges](https://repl.it/@LuWang1983/MaxHotelStayMeetingRooms2)
-20. [Decrpyt Message](https://repl.it/@LuWang1983/DecryptMessage)
+30. [Maximum Points You Can Obtain from Cards](https://repl.it/@LuWang1983/MaximumPointsCards#index.js)
+
 
 
 #### Number and Math (e.g. %)
@@ -43,6 +44,7 @@ A code challenge a day keeps the technical interview anxiety at bay.
 3. [Drone Flight Planner](https://repl.it/@LuWang1983/DroneFlightPlanner#index.js)
 4. [Matrix Exponentiation](https://repl.it/@LuWang1983/MatrixExpo)
     - Video explanation: https://youtu.be/fBzwKEqSYxE
+5. [Decrpyt Message](https://repl.it/@LuWang1983/DecryptMessage)
 
 #### Matrix
 1. [Hourglass Sum](https://repl.it/@LuWang1983/2DArray#index.js)
