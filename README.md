@@ -82,6 +82,7 @@ A code challenge a day keeps the technical interview anxiety at bay.
     - [Presentation Deck](https://docs.google.com/presentation/d/1uroPhgEiH8KI_o9I2uTmljCkKpCAzzQt8RNCXPJoNEo/edit?usp=sharing)
 4. [Insert Delete GetRandom O(1)](https://repl.it/@LuWang1983/InsertDeleteGetRandomO1#index.js)
 5. [Design Underground System](https://repl.it/@LuWang1983/DesignUndergroundSystem#index.js)
+6. [Invalid Transactions](https://repl.it/@LuWang1983/InvalidTransactions#index.js)
 
 #### Heaps
 1. [MaxHeap Implementation / Heap Sort using MaxHeap - 2 code challenges](https://repl.it/@LuWang1983/MaxHeapImplementation#index.js)
