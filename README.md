@@ -35,8 +35,6 @@ A code challenge a day keeps the technical interview anxiety at bay.
 19. [Max Hotel Stay / Meeting Rooms 2 - 2 code challenges](https://repl.it/@LuWang1983/MaxHotelStayMeetingRooms2)
 30. [Maximum Points You Can Obtain from Cards](https://repl.it/@LuWang1983/MaximumPointsCards#index.js)
 
-
-
 #### Number and Math (e.g. %)
 1. [Distribute Candies to People](https://repl.it/@LuWang1983/CandiesDistribution#index.js)
 2. [Multiplicative Persistence](https://repl.it/@LuWang1983/MultiplicativePersistence#index.js)
@@ -56,6 +54,7 @@ A code challenge a day keeps the technical interview anxiety at bay.
 #### Stacks and Queues
 1. [Merging 2 Packages / Brackets Match - 2 code challenges](https://repl.it/@LuWang1983/Merging2PackagesBracketMatch)
 2. [Numbers of Islands](https://repl.it/@LuWang1983/NumberOfIslands#index.js)
+3. [Decode String](https://repl.it/@LuWang1983/DecodeString#index.js)
 
 #### Linked List
 1. [Flatten Nested List Iterator](https://repl.it/@LuWang1983/FlattenNestedList#index.js)
@@ -99,7 +98,6 @@ A code challenge a day keeps the technical interview anxiety at bay.
 5. [Common Sorting Algorithms](https://repl.it/@LuWang1983/SortingAlgo#index.js)
 6. [Array Index & Element Equality - using Binary Search](https://repl.it/@LuWang1983/ArrayIndexandElementEquality#index.js)
 7. [Shifted Array Search](https://repl.it/@LuWang1983/ShiftedArraySearch#index.js)
-
 
 #### BIT Manipulation
 1. [Binary Numbers](https://repl.it/@LuWang1983/BinaryNumbers#index.js)
