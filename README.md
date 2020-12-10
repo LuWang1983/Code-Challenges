@@ -71,6 +71,7 @@ A code challenge a day keeps the technical interview anxiety at bay.
 3. [Max Binary Tree Depth](https://repl.it/@LuWang1983/MaxTreeDepth#index.js)
 4. [BST Successor Search](https://repl.it/@LuWang1983/BSTSuccessorSearch#index.js)
 5. [Largest Smallest BST Key](https://repl.it/@LuWang1983/LargestSmallestBSTKey#index.js)
+5. [Validate BST](https://repl.it/@LuWang1983/ValidateBST#index.js)
 
 #### Hashmaps and Hashsets
 1. [Flatten a Dictionary](https://repl.it/@LuWang1983/FlattenDictionary#index.js)
