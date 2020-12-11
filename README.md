@@ -33,7 +33,8 @@ A code challenge a day keeps the technical interview anxiety at bay.
 17. [Array of Array Products](https://repl.it/@LuWang1983/ArrayOfArrayProducts#index.js)
 18. [Word Count Engine](https://repl.it/@LuWang1983/WordCountEngine#index.js)
 19. [Max Hotel Stay / Meeting Rooms 2 - 2 code challenges](https://repl.it/@LuWang1983/MaxHotelStayMeetingRooms2)
-30. [Maximum Points You Can Obtain from Cards](https://repl.it/@LuWang1983/MaximumPointsCards#index.js)
+20. [Maximum Points You Can Obtain from Cards](https://repl.it/@LuWang1983/MaximumPointsCards#index.js)
+21. [Time Planner](https://repl.it/@LuWang1983/TimePlanner#index.js)
 
 #### Number and Math (e.g. %)
 1. [Distribute Candies to People](https://repl.it/@LuWang1983/CandiesDistribution#index.js)
